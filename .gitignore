@@ -73,8 +73,8 @@ data/synthetic/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 !data/synthetic/.gitkeep
-models/*
-!models/.gitkeep
+# models/*
+# !models/.gitkeep
 logs/*
 !logs/.gitkeep
 reports/figures/*
